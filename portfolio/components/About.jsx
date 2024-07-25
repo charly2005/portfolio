@@ -5,10 +5,6 @@ import DevImg from './DevImg'
 
 const infoData = [
   {
-    icon: <PhoneCall size={20} />,
-    text: '+650-307-8627'
-  },
-  {
     icon: <MailIcon size={20} />,
     text: 'cyao030@bu.edu'
   },
